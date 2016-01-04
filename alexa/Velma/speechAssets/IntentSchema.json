@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "VelmaIntent",
+	  "slots": [
+		{
+			"name": "business",
+			"type": "NUMBER"	
+		}
+	  ]
+    },
+	{
+		"intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
